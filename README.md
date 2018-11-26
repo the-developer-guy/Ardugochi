@@ -1,2 +1,2 @@
-# Ardugichi
+# Ardugochi
 An Arduino-based artificial lifeform
